@@ -41,7 +41,7 @@ fun GalleryScreen(
                     .wrapContentHeight()
             )
         }
-    }g
+    }
 }
 
 @Preview(showSystemUi = true)
